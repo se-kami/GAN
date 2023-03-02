@@ -3,7 +3,7 @@
 
 PyTorch implementation of the original GAN paper.
 
-<img src="images/gan-gif.gif" width="250" height="250"/>
+<img src="images/gan-gif.gif" width="500"/>
 
 ## References
 [paper](https://arxiv.org/abs/1406.2661)
